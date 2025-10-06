@@ -7,11 +7,11 @@ Caso não tenha javafx em seu computador [aprenda a instalar neste link](https:/
 
 3 - Insira o comando segundo a sua distribuição
 
-	Windows:
+<li>Windows:</li>
  
-java --module-path "C:\caminho\ate\javasdk\lib" ^ --add-modules javafx.controls,javafx.fxml ^ -jar ErrorSimulator0.1.jar
+	java --module-path "C:\caminho\ate\javasdk\lib" ^ --add-modules javafx.controls,javafx.fxml ^ -jar ErrorSimulator0.1.jar
 
-	Linux:
+<li>Linux</li>
 
-java --module-path ~/caminho/javasdl/lib \ --add-modules javafx.controls,javafx.fxml \ -jar ErrorSimulator0.1.jar
+	java --module-path ~/caminho/javasdl/lib \ --add-modules javafx.controls,javafx.fxml \ -jar ErrorSimulator0.1.jar
 
