@@ -21,5 +21,6 @@ O objetivo principal do ErrorSimulator é demonstrar e explorar o conceito de er
 ## Como executar
 
 O projeto utiliza Java e JavaFX. Certifique-se de ter o Java instalado e siga as instruções do seu ambiente para executar aplicações JavaFX. Também é disponibilizado um arquivo .jar, execute-o seguindo as instruções para a sua plataforma.
+[Instruções para executar o programa](guia.md)
 
 Desenvolvido para fins educacionais.
